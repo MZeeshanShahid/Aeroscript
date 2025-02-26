@@ -1,1 +1,1 @@
-Et domenespesifikt språk for droneflyvning-simulasjon.
+Et domene-spesifikt språk for å simulere droneflyvning
